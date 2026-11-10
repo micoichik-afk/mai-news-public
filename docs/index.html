@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>マイ・ニュース公開版</title>
+<meta name="description" content="AI・ゴルフ・ボウリング・キャンプ・Apple製品・ボートレースの日本語ニュースを毎日自動更新でまとめて読めるページです。">
+<meta name="theme-color" content="#0f4c81">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>📰 マイ・ニュース</h1>
+  <p class="updated">更新: <span id="updated">読み込み中…</span></p>
+  <div class="search-wrap">
+    <input id="search" type="search" placeholder="キーワードで検索（例：iPhone、優勝）" aria-label="キーワード検索">
+  </div>
+  <nav class="tabs" id="tabs" aria-label="カテゴリ"></nav>
+</header>
+
+<main>
+  <section id="top-section">
+    <h2>⭐ 今日の注目</h2>
+    <div class="cards" id="top-cards"></div>
+  </section>
+  <section>
+    <h2 id="list-title">すべての記事</h2>
+    <div class="cards" id="cards"></div>
+    <p id="empty" class="empty" hidden>記事が見つかりませんでした。</p>
+  </section>
+</main>
+
+<footer>
+  <p>見出し・要約は各配信元のRSSに基づきます。記事の続きはカードをタップして元記事でお読みください。</p>
+  <p>毎日 7:00（日本時間）に自動更新</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

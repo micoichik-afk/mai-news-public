@@ -1,0 +1,89 @@
+:root {
+  --bg: #f4f6f8;
+  --card: #ffffff;
+  --text: #1a1a1a;
+  --sub: #5f6b76;
+  --accent: #0f4c81;
+  --badge: #e8f0f8;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-text-size-adjust: 100%;
+}
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--accent);
+  color: #fff;
+  padding: 14px 16px 10px;
+  padding-top: calc(14px + env(safe-area-inset-top));
+}
+.site-header h1 { margin: 0; font-size: 22px; }
+.updated { margin: 4px 0 10px; font-size: 12px; opacity: 0.85; }
+.search-wrap input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 16px; /* iOS の自動ズーム防止 */
+  border: none;
+  border-radius: 10px;
+}
+.tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 10px 0 4px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex: 0 0 auto;
+  border: 1px solid rgba(255,255,255,0.6);
+  background: transparent;
+  color: #fff;
+  padding: 7px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.tab.active { background: #fff; color: var(--accent); font-weight: 700; }
+main { max-width: 760px; margin: 0 auto; padding: 8px 14px 20px; }
+h2 { font-size: 17px; margin: 18px 0 10px; }
+.cards { display: grid; gap: 10px; }
+.card {
+  display: block;
+  background: var(--card);
+  border-radius: 12px;
+  padding: 13px 14px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.card:active { opacity: 0.75; }
+.card .badge {
+  display: inline-block;
+  background: var(--badge);
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-bottom: 6px;
+}
+.card h3 { margin: 0 0 6px; font-size: 16px; line-height: 1.45; }
+.card p { margin: 0 0 8px; font-size: 13.5px; line-height: 1.6; color: #333; }
+.card .meta { font-size: 12px; color: var(--sub); }
+.empty { text-align: center; color: var(--sub); padding: 30px 0; }
+footer {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 10px 16px 34px;
+  font-size: 12px;
+  color: var(--sub);
+  line-height: 1.6;
+}
