@@ -1,6 +1,8 @@
 // マイ・ニュース公開版 Service Worker
 // アプリの枠（HTML/CSS/JS/アイコン）はキャッシュ優先、articles.json はネットワーク優先で常に最新を取る。
-const CACHE = "mai-news-v1";
+// 枠側（HTML/CSS/JS）を変更したら CACHE のバージョンを上げること（古いキャッシュを破棄して新機能を届けるため）。
+// v2: 既読管理・ダークモード・トレンド・検索ハイライト追加
+const CACHE = "mai-news-v2";
 const SHELL = ["./", "./index.html", "./style.css", "./app.js", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {

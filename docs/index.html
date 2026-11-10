@@ -10,18 +10,36 @@
 <link rel="icon" href="icon-192.png" type="image/png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="stylesheet" href="style.css">
+<script>
+  // ダークモードのちらつき防止: 保存済み設定 → OS設定の順で初期テーマを決める
+  try {
+    var t = localStorage.getItem("mai-news-theme");
+    if (!t) t = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.dataset.theme = t;
+  } catch (e) {}
+</script>
 </head>
 <body>
 <header class="site-header">
-  <h1>📰 マイ・ニュース</h1>
+  <div class="header-row">
+    <h1>📰 マイ・ニュース</h1>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="ダークモード切替">🌙</button>
+  </div>
   <p class="updated">更新: <span id="updated">読み込み中…</span></p>
   <div class="search-wrap">
     <input id="search" type="search" placeholder="キーワードで検索（例：iPhone、優勝）" aria-label="キーワード検索">
+  </div>
+  <div class="controls">
+    <button id="unread-toggle" class="toggle-btn" type="button" aria-pressed="false">未読のみ表示</button>
   </div>
   <nav class="tabs" id="tabs" aria-label="カテゴリ"></nav>
 </header>
 
 <main>
+  <section id="trend-section" hidden>
+    <h2>🔥 トレンド</h2>
+    <div class="chips" id="trend-chips"></div>
+  </section>
   <section id="top-section">
     <h2>⭐ 今日の注目</h2>
     <div class="cards" id="top-cards"></div>

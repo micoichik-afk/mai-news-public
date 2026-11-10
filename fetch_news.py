@@ -43,6 +43,9 @@ CATEGORIES = [
 
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
+ELLIPSIS_RE = re.compile(r"(…{2,}|\.{3,})")
+TITLE_NORM_RE = re.compile(r"[\s\"\"''「」『』（）()【】\[\]<>・…、。,.!?！？:：/／\\|｜-]")
+SIMILAR_THRESHOLD = 0.65  # タイトルの bigram Jaccard 類似度がこれ以上なら重複とみなす
 
 
 def clean_text(text: str) -> str:
@@ -56,9 +59,26 @@ def clean_text(text: str) -> str:
 
 
 def truncate(text: str, limit: int = SUMMARY_MAX) -> str:
+    """長さ制限での切り詰め。文の切れ目（。）が後半にあればそこで切り、
+    なければ末尾の読点を落として「…」を付ける。"""
+    text = text.strip()
     if len(text) <= limit:
         return text
-    return text[:limit].rstrip() + "…"
+    cut = text[:limit]
+    idx = cut.rfind("。")
+    if idx >= limit // 2:
+        return cut[: idx + 1]
+    return cut.rstrip("、,") + "…"
+
+
+def polish_summary(title: str, summary: str) -> str:
+    """要約の整形: 先頭のタイトル重複を除去し、省略記号を正規化してから切り詰める"""
+    s = summary or ""
+    if title and s.startswith(title):
+        s = s[len(title):].lstrip(" 　・-：:")
+    s = ELLIPSIS_RE.sub("…", s)
+    s = s.strip(" 　")
+    return truncate(s)
 
 
 def fetch_xml(url: str) -> ET.Element:
@@ -126,7 +146,7 @@ def fetch_bing(query: str) -> list:
         dt, date_str = parse_date(item.findtext("pubDate") or "")
         articles.append({
             "title": title,
-            "summary": truncate(clean_text(item.findtext("description") or "")),
+            "summary": polish_summary(title, clean_text(item.findtext("description") or "")),
             "source": child_text(item, "Source") or "Bing News",
             "url": link,
             "_dt": dt,
@@ -156,7 +176,7 @@ def fetch_google(query: str) -> list:
             if part:
                 desc = desc.replace(part, " ")
         desc = WS_RE.sub(" ", desc).strip(" 　・-")
-        summary = truncate(desc) if len(desc) >= 20 else ""
+        summary = polish_summary(title, desc) if len(desc) >= 20 else ""
         articles.append({
             "title": title,
             "summary": summary,
@@ -168,17 +188,39 @@ def fetch_google(query: str) -> list:
     return articles
 
 
+def normalize_title(title: str) -> str:
+    """タイトル比較用の正規化（空白・記号除去、小文字化）"""
+    return TITLE_NORM_RE.sub("", title).lower()
+
+
+def _bigrams(s: str) -> set:
+    if len(s) < 2:
+        return {s} if s else set()
+    return {s[i:i + 2] for i in range(len(s) - 1)}
+
+
+def title_similarity(a: str, b: str) -> float:
+    """正規化済みタイトル同士の bigram Jaccard 類似度"""
+    ba, bb = _bigrams(a), _bigrams(b)
+    if not ba or not bb:
+        return 0.0
+    return len(ba & bb) / len(ba | bb)
+
+
 def dedupe_sort_limit(articles: list, limit: int) -> list:
-    seen_titles = set()
     seen_urls = set()
+    kept_norms = []  # 残した記事の正規化タイトル（類似タイトル除去用）
     unique = []
     for a in articles:
-        tkey = WS_RE.sub("", a["title"]).lower()
         ukey = a["url"].split("#")[0]
-        if tkey in seen_titles or ukey in seen_urls:
+        if ukey in seen_urls:
             continue
-        seen_titles.add(tkey)
+        norm = normalize_title(a["title"])
+        # 完全一致だけでなく、媒体違いの同一ニュースなど類似タイトルも除去する
+        if any(title_similarity(norm, k) >= SIMILAR_THRESHOLD for k in kept_norms):
+            continue
         seen_urls.add(ukey)
+        kept_norms.append(norm)
         unique.append(a)
     unique.sort(key=lambda a: a["_dt"] or datetime.min.replace(tzinfo=JST), reverse=True)
     return unique[:limit]
