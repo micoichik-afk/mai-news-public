@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 10:56 JST",
+  "generated_at": "2026-11-15 10:28 JST",
   "categories": [
     {
       "id": "ai",
@@ -28,10 +28,34 @@
   ],
   "articles": [
     {
-      "title": "【26分お得】「AI時代だからこそ言葉を鍛えよ」解剖学者・養老孟司 ...",
-      "summary": "「生成AIが急速に拡大する今、なぜ『自分の言葉で語る力』が問われているのか？」 ベストセラー『バカの壁』で知られる解剖学者の養老孟司氏（89歳）と哲学者・国文高一郎氏による新たなオーディオ作品『言葉の体』が配信され、大きな注目を集めています。",
+      "title": "AIディスラプションで労働者を置き去りにしないために",
+      "summary": "大統領の言葉を借りれば、現在米国の「人工知能（AI）責任者（AIツァー）」を務めるのが、トランプ第一次政権時に米証券取引委員会（SEC）委員長を務め、弁護士出身で前連邦検事のジェイ・クレイトン氏である。",
+      "source": "barrons.jiji",
+      "url": "https://barrons.jiji.com/article/9091",
+      "date": "2026-11-14",
+      "category": "ai"
+    },
+    {
+      "title": "経験もスキルもない人が生成AIを使って、全自動で100万円を稼ぐ ...",
+      "summary": "いま「経験もスキルもない人が生成AIを使って、全自動で100万円稼げた」みたいな投稿をSNSやnoteでよく見かける。それを見るたびに私はこう思う。「うらやましいなぁ〜」と。私もできれば何もせずに月100万円が欲しい。私は貧乏だし、将来も不安だからだ。",
       "source": "note",
-      "url": "https://note.com/dandy_toucan7622/n/nbbf5ac4c2ad2",
+      "url": "https://note.com/payapayakun/n/n546cac173f48",
+      "date": "2026-11-14",
+      "category": "ai"
+    },
+    {
+      "title": "AI時代に財務リーダーがチームに培うべきスキルとは",
+      "summary": "AI（人工知能）は、財務領域において最も重視されるテクニカルスキルの定義を変えつつある。ファイナンシャル・モデリングの重要性は今も変わらないが、財務予測・分析（FP&A）チームにとっては、データ設計やプロセス設計の重要性がますます高 …",
+      "source": "Forbes JAPAN",
+      "url": "https://forbesjapan.com/articles/detail/108281",
+      "date": "2026-11-14",
+      "category": "ai"
+    },
+    {
+      "title": "＜独自＞防衛関連経費に「戦略分野」 AI、エネルギーなど 安保3 ...",
+      "summary": "政府・与党は年末に予定する安全保障関連3文書の改定で、政府の日本成長戦略で定める「戦略17分野」から人工知能（AI）、エネルギーなど経済を含む安保に資する分野を防衛関連経費の対象に加える方向で調整に入った。",
+      "source": "産経ニュース",
+      "url": "https://www.sankei.com/article/20261115-QNEG4CPYVFILRH3FCQSAG7QQSI/",
       "date": "2026-11-14",
       "category": "ai"
     },
@@ -44,42 +68,18 @@
       "category": "ai"
     },
     {
-      "title": "AI危険性の制御訴え EU、国際基準と管理必要 非公式首脳会議開く",
-      "summary": "欧州連合（EU）は13日、アイルランドの首都ダブリンで、初めて人工知能（AI）を主要議題とした非公式首脳会議を開いた。終了後の記者会見でEUのコスタ大統領は、… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com） …",
-      "source": "日刊スポーツ",
-      "url": "https://www.nikkansports.com/general/news/202611140000217.html",
-      "date": "2026-11-14",
-      "category": "ai"
-    },
-    {
-      "title": "【動画生成AIがここまで進化！】誰でも映画が作れる時代へ？Sora ...",
-      "summary": "【動画生成AIがここまで進化！】誰でも映画が作れる時代へ？Sora・Veo・Runwayの可能性と著作権・偽動画の危険性を解説 こんにちは、みるくです。 最近、AIを使った動画制作が大きく進化しています。",
+      "title": "生成AIの社内ルールは整備されていますか？ 中小企業で進む個人 ...",
+      "summary": "1．はじめに 生成AIは、文章の作成や情報収集、資料作成など、さまざまな業務で活用されるようになりました。 一方で、企業として利用方針を定めないまま、従業員が個別に生成AIを利用しているケースもあります。",
       "source": "note",
-      "url": "https://note.com/15milk_umauma/n/n25505518acaa",
+      "url": "https://note.com/mirimiri111_/n/nd25b61a211a2",
       "date": "2026-11-13",
       "category": "ai"
     },
     {
-      "title": "情報技術者の福島県内定着へ、葛尾でAI人材育成",
-      "summary": "情報サービス業「ＯＲＥＮＤＡ ＷＯＲＬＤ」（オレンダワールド、東京都）は、葛尾村を拠点に高度な情報技術を持つ若者を県内に定着させる試みに乗り出した。人工知能（ＡＩ）を地域で活用する流れを後押しし、得られた知見を次世代の人材育成につなげる。",
-      "source": "福島民友新聞社 みんゆうNet",
-      "url": "https://www.minyu-net.com/news/detail/2026111410502157229",
-      "date": "2026-11-13",
-      "category": "ai"
-    },
-    {
-      "title": "EU、AI危険性の制御訴え",
-      "summary": "【ダブリン共同】欧州連合（ＥＵ）は１３日、アイルランドの首都ダブリンで、初めて人工知能（ＡＩ）を主要議題とした非公式首脳会議を開いた。終了後の記者会見でＥＵのコスタ大統領は、ＡＩの利点を強調しつつも「危険性を効率的に制御しなければならない… …",
-      "source": "カナロコ",
-      "url": "https://www.kanaloco.jp/news/international/article-1320536.html",
-      "date": "2026-11-13",
-      "category": "ai"
-    },
-    {
-      "title": "決済代行機能の提供開始「チャットGPTウォレット」 米国で ...",
-      "summary": "米オープンAIは13日、対話型人工知能（AI）「チャットGPT」の有料プラン「プロ」に加入する米国の18歳以上の利用者を対象に、AIエージェントが支払いを代行する新機能「チャットGPTウォレット」の提供を始めた。",
-      "source": "産経ニュース",
-      "url": "https://www.sankei.com/article/20261114-E4DM5M2APZJ6BDPCA7ZWAPBALA/",
+      "title": "生成AIを「攻めのIT」に、参天製薬が進める全社活用",
+      "summary": "生成AIの活用を個人の生産性向上から事業成果へと広げる参天製薬。日本マイクロソフトが11月13日に開催した説明会では、約4000件のAIエージェントやMRの面談支援など、同社における生成AI活用の現在地が紹介された。",
+      "source": "マイナビニュース",
+      "url": "https://news.mynavi.jp/techplus/article/20261113-5317368/",
       "date": "2026-11-13",
       "category": "ai"
     },
@@ -92,68 +92,84 @@
       "category": "ai"
     },
     {
-      "title": "渋野日向子、87位→50位浮上！ FWキープ100％、来季米ツアー出場権へ ...",
-      "summary": "米女子ゴルフツアーのアニカ・ドリブン by ゲインブリッジ at ペリカン第2日が13日（日本時間14日）、米・フロリダ州のペリカンGC（6349ヤード、パー70）で開催された。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/46da4d7ebd236f08fcede5059cc9248446b4fe6b",
-      "date": "2026-11-14",
-      "category": "golf"
-    },
-    {
-      "title": "反転攻勢のきっかけは「自分らしい攻めのゴルフ」岩井明愛が大会 ...",
-      "summary": "反転攻勢のきっかけは、初日を終えた後にあった。キャディらチームで話し合い、自分のゴルフを見つめ直した。「攻めのゴルフが自分のゴルフ。それが欠けていた」。意図したものでなくとも、スコアをまとめようとするあまり、知らず知らずのうちに守りに入っていたことに気づいた。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/a696e06e9ca8dd01d8327b181bad638debefeed3",
-      "date": "2026-11-14",
-      "category": "golf"
-    },
-    {
-      "title": "【女子ゴルフ】平塚新夢 苦難乗り越え首位発進 被災経験、難病に ...",
-      "summary": "女子ゴルフツアー伊藤園レディース第1日（2026年11月13日 千葉県 グレートアイランドC（6769ヤード、パー72）） プロ2年目の平塚新夢（あむ、26＝Knomak）が7バーディー、ボギーなしの65で回り、自身初の単独首位スタートを切った。",
-      "source": "毎日新聞デジタル",
-      "url": "https://mainichi.jp/articles/20261114/spp/sp0/004/006000c",
-      "date": "2026-11-14",
-      "category": "golf"
-    },
-    {
-      "title": "現実の女子ゴルフで「漫画の秘技？」「先生に見せたい」 名作彷彿 ...",
-      "summary": "国内女子ゴルフツアーの伊藤園レディスが13日、千葉・グレートアイランドC（6769ヤード、パー72）で開幕。桑木志帆（大和ハウス工業）は5バーディー、1ボギーの68で回り、4アンダーの7位で発進した。4番パー4では驚きの一打を披露。",
-      "source": "THE ANSWER",
-      "url": "https://the-ans.jp/news/752070/",
-      "date": "2026-11-14",
-      "category": "golf"
-    },
-    {
-      "title": "ベトナム、アジア最高のゴルフ観光先に10年連続選出",
-      "summary": "(C) World Golf Awards 写真の拡大. エジプトで開催されたゴルフ観光の国際賞「ワールド・ゴルフ・アワーズ(World Golf Awards)」の2026年授賞式で、ベトナムが「アジア最高のゴルフ観光先(Asia’s Best Golf Destination…",
-      "source": "ベトナムニュース総合情報サイトVIETJO",
-      "url": "https://www.viet-jo.com/news/tourism/261110130546.html",
-      "date": "2026-11-14",
-      "category": "golf"
-    },
-    {
-      "title": "ゴルフ＝西郷と勝が2打差の4位、岩井明は急浮上 米女子ツアー",
-      "summary": "［１３日 ロイター］ - 米女子ゴルフのアニカ・ゲインブリッジ・ペリカンは１３日、フロリダ州ベレアのペリカンＧＣ（パー７０）で第２ラウンドを行い、西郷真央と勝みなみが通算１０アンダーの１３０で、首位と２打差の４位につけた。",
+      "title": "ゴルフ＝吉田優利が首位と2差の3位に浮上、米女子ツアー",
+      "summary": "［１４日 ロイター］ - 米女子ゴルフのアニカ・ゲインブリッジ・ペリカンは１４日、フロリダ州ベレアのペリカンＧＣ（パー７０）で第３ラウンドを行い、吉田優利が首位と２打差の３位に浮上した。",
       "source": "Reuters on MSN",
-      "url": "https://www.msn.com/ja-jp/sports/other/%E3%82%B4%E3%83%AB%E3%83%95-%E8%A5%BF%E9%83%B7%E3%81%A8%E5%8B%9D%E3%81%8C2%E6%89%93%E5%B7%AE%E3%81%AE4%E4%BD%8D-%E5%B2%A9%E4%BA%95%E6%98%8E%E3%81%AF%E6%80%A5%E6%B5%AE%E4%B8%8A-%E7%B1%B3%E5%A5%B3%E5%AD%90%E3%83%84%E3%82%A2%E3%83%BC/ar-AA2hoXBp",
+      "url": "https://www.msn.com/ja-jp/sports/golf/%E3%82%B4%E3%83%AB%E3%83%95-%E5%90%89%E7%94%B0%E5%84%AA%E5%88%A9%E3%81%8C%E9%A6%96%E4%BD%8D%E3%81%A82%E5%B7%AE%E3%81%AE3%E4%BD%8D%E3%81%AB%E6%B5%AE%E4%B8%8A-%E7%B1%B3%E5%A5%B3%E5%AD%90%E3%83%84%E3%82%A2%E3%83%BC/ar-AA2hrCSA",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "【速報】女子ゴルフV争いで衝撃「はいったああああ!」 → → → の ...",
+      "summary": "伊藤園レディス 女子ゴルフの国内ツアー・伊藤園レディスは15日、千葉・グレートアイランドC（6769ヤード、パー72）で最終日が行われている。",
+      "source": "THE ANSWER on MSN",
+      "url": "https://www.msn.com/ja-jp/news/other/%E9%80%9F%E5%A0%B1-%E5%A5%B3%E5%AD%90%E3%82%B4%E3%83%AB%E3%83%95v%E4%BA%89%E3%81%84%E3%81%A7%E8%A1%9D%E6%92%83-%E3%81%AF%E3%81%84%E3%81%A3%E3%81%9F%E3%81%82%E3%81%82%E3%81%82%E3%81%82-%E3%81%AE%E9%A6%96%E4%BD%8D%E6%B5%AE%E4%B8%8A-%E6%A1%91%E6%9C%A8%E3%82%92%E9%80%86%E8%BB%A2%E3%81%AA%E3%82%8B%E3%81%8B/ar-AA2hrHYH",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "【男子ゴルフ】最終日は濃霧で一時中断 首位・今平周吾のみ1番 ...",
+      "summary": "早朝から雨が降り、午前７時１０分に第１組がスタート。最終組の２つ前の組の石川遼（カシオ）は１番をボギー、２番をパーとした中、最終組の今平周吾（ロピア）が１番のティーショットを打つ直前にホーンが鳴った。",
+      "source": "Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/hochi_20261115-OHT1T51017/",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "【男子ゴルフ】最終ラウンドがスタートも 濃霧のため一時中断",
+      "summary": "7位で出た石川遼（CASIO）は1番でボギーを叩き、通算5アンダーの14位に後退。3日目終了時、単独首位の今平周吾（ロピア）は1番のティーショットを直前に中断のホーンが鳴った。",
+      "source": "毎日新聞デジタル",
+      "url": "https://mainichi.jp/articles/20261115/spp/sp0/004/133000c",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "ゴルフ アニカ・ゲインブリッジ・ペリカン 岩井明 一気浮上11位",
+      "summary": "米女子ゴルフのアニカ・ゲインブリッジ・ペリカンは13日、フロリダ州ベレアのペリカンGC（パー70）で第2ラウンドが行われ、首位で出た勝みなみは69で回り、65と伸ばした西郷真央と並び通算10アンダー、130で首位と2打差の4位となった。",
+      "source": "毎日新聞デジタル",
+      "url": "https://mainichi.jp/articles/20261115/ddm/035/050/051000c",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "「スイングの邪魔になりません」 ルコックの“着たままプレー ...",
+      "summary": "冬のゴルフでは、暖かくて動きやすいアウターがあると便利です。そこで今回は、着たままゴルフをプレーできる、ルコックスポルティフの「ヒートナビ中わた2WAYブルゾン」を紹介します。",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/research/articles/4096133/",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "賞金5億円超え…女子ゴルフ25歳が堪能した“豪華料理”に反響 ...",
+      "summary": "インスタグラムに大阪で極厚ステーキを堪能する写真を公開したのは、25歳の山下だ。前髪を下ろしたナチュラルなヘアスタイル。ファンの視線を集め、様々なコメントが寄せられた。",
+      "source": "THE ANSWER",
+      "url": "https://the-ans.jp/news/752723/",
+      "date": "2026-11-15",
+      "category": "golf"
+    },
+    {
+      "title": "ゴルフ「天才少女」須藤弥勒が賞金総額300万円のアプローチツアー ...",
+      "summary": "ゴルフの海外ジュニアメジャー４冠を達成し「天才少女」と呼ばれる須藤弥勒（１５）＝高知・明徳義塾中３年／太陽自動車＝が１４日、賞金総額３００万円のプロアプローチツアー全日本選手権（１５日、静岡・高嶺の森のゴルフクラブ）に向けて、念願の初優勝を目指す意欲を明かした。",
+      "source": "スポーツ報知 on MSN",
+      "url": "https://www.msn.com/ja-jp/sports/golf/%E3%82%B4%E3%83%AB%E3%83%95-%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3-%E9%A0%88%E8%97%A4%E5%BC%A5%E5%8B%92%E3%81%8C%E8%B3%9E%E9%87%91%E7%B7%8F%E9%A1%8D%EF%BC%93%EF%BC%90%EF%BC%90%E4%B8%87%E5%86%86%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%83%84%E3%82%A2%E3%83%BC%E5%85%A8%E6%97%A5%E6%9C%AC%E9%81%B8%E6%89%8B%E6%A8%A9%E5%84%AA%E5%8B%9D%E3%81%B8%E6%84%8F%E6%AC%B2%E6%BA%80%E3%80%85-%E8%B3%9E%E9%87%91%E3%81%A7%E4%B8%89%E6%9C%A8%E7%9B%A3%E7%9D%A3%E3%81%AB%E3%81%94%E3%81%A1%E3%81%9D%E3%81%86%E3%81%97%E3%81%9F%E3%81%84/ar-AA2hrcTw",
       "date": "2026-11-14",
       "category": "golf"
     },
     {
-      "title": "【女子ゴルフ】木戸愛は「静かに燃えている」今季2位3回 14年ぶり ...",
-      "summary": "第１ラウンドが行われ、木戸愛（日本ケアサプライ）が８バーディー、３ボギーの５アンダー６７をマークし、首位に２打差の４位につけた。２０１２年サマンサタバサレディス以来となる１４年１１６日ぶりのツアー最長ブランク優勝へ、好発進した。「６０台で回ることができて、いい一日だった。",
-      "source": "スポーツ報知 on MSN",
-      "url": "https://www.msn.com/ja-jp/sports/golf/%E5%A5%B3%E5%AD%90%E3%82%B4%E3%83%AB%E3%83%95-%E6%9C%A8%E6%88%B8%E6%84%9B%E3%81%AF-%E9%9D%99%E3%81%8B%E3%81%AB%E7%87%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B-%E4%BB%8A%E5%AD%A3%EF%BC%92%E4%BD%8D%EF%BC%93%E5%9B%9E-%EF%BC%91%EF%BC%94%E5%B9%B4%E3%81%B6%E3%82%8A%E3%83%84%E3%82%A2%E3%83%BC%E6%9C%80%E9%95%B7%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AF%EF%BD%96%E3%81%B8%EF%BC%94%E4%BD%8D%E7%99%BA%E9%80%B2/ar-AA2houMA",
-      "date": "2026-11-13",
-      "category": "golf"
+      "title": "2026/11/15【三山春秋】ボウリングの歴史は意外に古い。原型は…",
+      "summary": "▼ボウリングの歴史は意外に古い。原型は紀元前のエジプト。ルールの基礎はドイツの宗教改革家ルターが作ったとも言われる。米国を経て日本に伝わったのは江戸末期になってからだ ▼国民に浸透するまで、さらに100年。随分と時間を要したものである。火付け役は中山律子さん（草津町出身）だった。",
+      "source": "上毛新聞社",
+      "url": "https://www.jomo-news.co.jp/articles/-/1065631",
+      "date": "2026-11-15",
+      "category": "bowling"
     },
     {
-      "title": "勝みなみ 2打差4位で米ツアー初優勝のチャンス「あとは自分を信じ ...",
-      "summary": "初日にコースレコードの「６１」をマークし、トップに立った勝は我慢のゴルフだった。「昨日と違って苦しいラウンドになってしまったんですけど、その中でも耐えて一つスコアを伸ばして終われたのは明日につながると思います」と先を見据えてたが、大きくスコアを伸ばせなかった理由について「自分の打…",
-      "source": "東スポWEB",
-      "url": "https://www.tokyo-sports.co.jp/articles/-/409850",
-      "date": "2026-11-13",
-      "category": "golf"
+      "title": "【日本社会】「さわやか律子さん」を偲んで――昭和のボウリング ...",
+      "summary": "毎週土曜日は、日本の伝統文化をテーマにNoteを書いています。 今回は伝統文化から少し離れ、中山律子さんの訃報をきっかけに、昭和の日本で大流行したボウリングのブームと衰退、そして現在の姿について考えたいと思います。",
+      "source": "note",
+      "url": "https://note.com/heichinro/n/n1805f6eb5087",
+      "date": "2026-11-14",
+      "category": "bowling"
     },
     {
       "title": "LINEで4Gamerアカウントを登録",
@@ -161,14 +177,6 @@
       "source": "4Gamer.net",
       "url": "https://www.4gamer.net/games/991/G999111/20261114001/",
       "date": "2026-11-14",
-      "category": "bowling"
-    },
-    {
-      "title": "つるの剛士 子どもたちの快挙報告「ホントすごい」三女は弓道で県 ...",
-      "summary": "つるのは「娘が弓道の県大会で優勝（団体戦も2位）し、なんと、全国・関東・東日本大会へ。。？！つか、新聞出とるやん…すごっ」とつづり、賞状を持った第4子三女の写真などを投稿。 また「息子も日々ボウリングの練習に励んでおり、先日は『268出した！』とテンション高めで帰宅。",
-      "source": "スポニチ",
-      "url": "https://www.sponichi.co.jp/entertainment/news/2026/11/14/kiji/20261114s00041000069000c.html",
-      "date": "2026-11-13",
       "category": "bowling"
     },
     {
@@ -180,19 +188,19 @@
       "category": "bowling"
     },
     {
+      "title": "産後ダイエット記録（127日目） 特技ボウリング の夫",
+      "summary": "こんばんは。 本日もコツコツ現状の進捗報告します。 今朝は昨日と同じ体重で58.6kgでした。 今日はジャザサイズで体を動かし、明日は加圧トレーニングでの筋トレ。",
+      "source": "note",
+      "url": "https://note.com/mizukimama_0711/n/n87bb82418357",
+      "date": "2026-11-13",
+      "category": "bowling"
+    },
+    {
       "title": "中山律子さんの葬儀は近親者のみで執り行うと日本プロボウリング ...",
       "summary": "日本プロボウリング協会は9日、7日に亡くなった元プロボウラーの中山律子さん（享年84）の葬儀を、遺族の意向により、近親者のみで執り行うと同協会の公式サイトで発表した。 7日の時点では、葬儀・告別式等の予定については、現在確認中と説明していた。",
       "source": "毎日新聞デジタル",
       "url": "https://mainichi.jp/articles/20261109/spp/sp0/004/253000c",
       "date": "2026-11-09",
-      "category": "bowling"
-    },
-    {
-      "title": "松山千春 中山律子さん訃報に思い 故郷・足寄にもボウリング場 ...",
-      "summary": "日本プロボウリング協会が7日に発表したもので、中山さんは病気療養中だった。1960～70年代のボウリングブームを牽引。女子プロ選手として初のパーフェクトを達成し、同期の須田開代子さんとは終生のライバル関係を築いた。",
-      "source": "毎日新聞デジタル",
-      "url": "https://mainichi.jp/articles/20261108/spp/sp0/006/393000c",
-      "date": "2026-11-08",
       "category": "bowling"
     },
     {
@@ -212,19 +220,19 @@
       "category": "bowling"
     },
     {
-      "title": "プロボウリングの中山律子さん死去、８４歳…「さわやか律子さん」と親しまれブームけん引",
-      "summary": "…",
-      "source": "読売新聞 on MSN",
-      "url": "https://www.msn.com/ja-jp/news/national/%E5%A5%B3%E5%AD%90%E3%83%97%E3%83%AD%E3%83%9C%E3%82%A6%E3%83%A9%E3%83%BC%E3%81%AE%E4%B8%AD%E5%B1%B1%E5%BE%8B%E5%AD%90%E3%81%95%E3%82%93%E6%AD%BB%E5%8E%BB-%EF%BC%98%EF%BC%94%E6%AD%B3-%E3%81%95%E3%82%8F%E3%82%84%E3%81%8B%E5%BE%8B%E5%AD%90%E3%81%95%E3%82%93-%E3%81%A8%E8%A6%AA%E3%81%97%E3%81%BE%E3%82%8C%E3%83%96%E3%83%BC%E3%83%A0%E3%81%91%E3%82%93%E5%BC%95/ar-AA2gWDZf",
-      "date": "2026-11-07",
-      "category": "bowling"
+      "title": "今売れている「アウトドアナイフ」おすすめ＆ランキング【2026年11 ...",
+      "summary": "「アウトドアナイフ」は食材のカッティングからナイフ1本で行う薪割り「バトニング」まで、キャンプのさまざまなシーンで活躍します。モーラナイフやオピネルなど、アウトドアナイフの人気モデルをAmazonランキングから紹介！",
+      "source": "ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/4099598/",
+      "date": "2026-11-14",
+      "category": "camp"
     },
     {
       "title": "北海道の秋冬キャンプに欠かせない「ぽかぽか電気毛布」。新 ...",
       "summary": "今回、新モデルを使わせていただく機会があったので、早速北海道のキャンプで使ってみました。 BougeRVの「 12V電気毛布 」は、キャンプはもちろん自宅でも大活躍している電気毛布なんです。",
       "source": "J-CAST ニュース",
       "url": "https://www.j-cast.com/trend/provider/roomie/2026111924771",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "category": "camp"
     },
     {
@@ -276,42 +284,26 @@
       "category": "camp"
     },
     {
-      "title": "グリーンランドのイヌイットを描いた作品がグランプリ決定 ...",
-      "summary": "［札幌国際短編映画祭（NoMaps実行委員会）］世界のアウトドアシーンを集める国内発アウトドア映画の祭典！ グランプリは、グリーンランドのイヌイットが直面する環境変化を描く15分のドキュメンタリー。野外上映とアーバンキャンプにアウトドアファン集う。",
-      "source": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=000000061.000067047&g=prt",
-      "date": "2026-11-10",
-      "category": "camp"
+      "title": "iPhone DuoとiPad mini 8を触ってきた。値札の前で「いらない」と唱える",
+      "summary": "新しいApple製品が出るたびに、家電売り場へ見に行く。 最近だと、iPhone DuoとiPad mini 8。 どっちも、正直いらない。iPhoneは手元にあるし、iPad miniも6を持っている。 それでも気になる。持っているからいらない、でも見たい。",
+      "source": "note",
+      "url": "https://note.com/deaf_zakki/n/n671eb16b2c21",
+      "date": "2026-11-15",
+      "category": "apple"
     },
     {
-      "title": "EPONASのApple Watchバンドが横浜高島屋に 12月31日まで｜POP UP SHOPで新作 ...",
-      "summary": "Apple Watch用レザーバンドのEPONASが、横浜高島屋6階でPOP UP SHOPを12月31日まで開催中。バンドのほか、ペリンガー社のシュランケンカーフを使った新しい革小物、マルチバックパック、iPhone 18 Pro対応ケースを店頭で選べます。",
-      "source": "Smart Watch Life",
-      "url": "https://www.smartwatchlife.jp/95307/",
+      "title": "2026年秋のApple新製品まとめ｜値上げの年、新型と型落ちどれを買う？",
+      "summary": "iPhone 17は、発売のときより3万円高くなっています。 「型落ちを待てば安くなる」は、今年は通じそうにありません。2026年秋はAppleの新製品が次々に出たうえに、値上げも重なりました。",
+      "source": "note",
+      "url": "https://note.com/cheeky_shark9321/n/nb45bb48ffe04",
       "date": "2026-11-14",
       "category": "apple"
     },
     {
-      "title": "Appleサポートコミュニティが11月20日で閉鎖。困ったとき、これから ...",
-      "summary": "「iPhone 不具合」で検索すると、よく上のほうに出てきたAppleサポートコミュニティ。そのコミュニティが、2026年11月20日で閉鎖されます。 ニュースを見たとき、正直ちょっと寂しくなりました。「同じ症状の人、ほかにもいるんだ」と分かるだけで、ほっとできる場所だったので。",
-      "source": "note",
-      "url": "https://note.com/hide401007/n/n291e81c556a3",
-      "date": "2026-11-13",
-      "category": "apple"
-    },
-    {
-      "title": "Apple初の折りたたみスマホ「iPhone Duo」を購入！開封してしばらく ...",
-      "summary": "Apple初のフォルダブルスマホ「iPhone Duo」をレビュー！Galaxy Z Fold8との違いもチェック ここ最近にスマートフォン（スマホ）のハイエンドモデルとして注目されている折り畳めるディスプレイを搭載したフォルダブルスマホですが、ついにAppleの「iPhone」…",
-      "source": "S-MAX（エスマックス）",
-      "url": "https://s-max.jp/archives/1800299.html",
-      "date": "2026-11-13",
-      "category": "apple"
-    },
-    {
-      "title": "秋のApple新製品、全部まとめ！どれが刺さる？",
-      "summary": "9月のiPhoneから、今日11月13日のApple TVまで。今年の秋のAppleは、ほぼ毎週なにかが出ていました！ iPhone 18 Proに折りたたみのDuo、M6のMac miniとiMac、M6と有機ELの2つのMacBook Pro、有機ELのiPad mini、H…",
-      "source": "note",
-      "url": "https://note.com/tono_gadget/n/n91c3bcd0f1c6",
+      "title": "Appleの初折りたたみスマホ「iPhone Duo」は使いにくい？ 実際に使用し ...",
+      "summary": "iPhone DuoはApple初の折りたたみモデルということもあり、従来のiPhoneとは操作方法が大きく異なります。筆者はサムスンの折りたたみスマホであるGalaxy Z Foldシリーズを元々愛用していたため、操作自体に大きな違和感はありませんでしたが、少し気になる点もあり…",
+      "source": "All About（オールアバウト）",
+      "url": "https://allabout.co.jp/gm/gc/522735/",
       "date": "2026-11-13",
       "category": "apple"
     },
@@ -332,83 +324,91 @@
       "category": "apple"
     },
     {
-      "title": "アップル、iPhoneで“体の年齢”がわかる新機能 51歳の筆者が試したら意外な結果に",
-      "summary": "…",
-      "source": "アスキー on MSN",
-      "url": "https://www.msn.com/ja-jp/health/diseases-and-conditions/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB-iphone%E3%81%A7-%E4%BD%93%E3%81%AE%E5%B9%B4%E9%BD%A2-%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%E6%96%B0%E6%A9%9F%E8%83%BD-51%E6%AD%B3%E3%81%AE%E7%AD%86%E8%80%85%E3%81%8C%E8%A9%A6%E3%81%97%E3%81%9F%E3%82%89%E6%84%8F%E5%A4%96%E3%81%AA%E7%B5%90%E6%9E%9C%E3%81%AB/ar-AA2h6CO3",
-      "date": "2026-11-09",
+      "title": "ついにMacBookがタッチ操作に対応！Appleが発表した新製品5つ、何が ...",
+      "summary": "Appleは4種類のMacと新型iPad miniを含む5つの新製品を発売した。 新型iPad miniには、シリーズ初となるOLEDディスプレイと、Appleの最新チップ「A20 Pro」が搭載される。",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/adcf33fec34a00ac1ea03596c0bfb8225ac538fc",
+      "date": "2026-11-08",
       "category": "apple"
     },
     {
-      "title": "アップル「iPhone Duo」向けアプリが10万本超に 大画面への最適化が進む",
-      "summary": "Apple初の折りたたみスマートフォン「iPhone Duo」は、米CNETのレビューが指摘した通り、参入こそ遅かったが実力は確かだ。シニアレポーターのAbrar Al-Heeti記者は、2つのディスプレイを生かした「iOS 27」の統合や、優れた耐久性を高く評価した。",
-      "source": "CNET Japan",
-      "url": "https://japan.cnet.com/article/35254585/",
-      "date": "2026-11-09",
+      "title": "Appleの2026年はまだ続く〜年内に控える新製品と発売日",
+      "summary": "年内に発売日が決まっているApple製品のうち、11月6日（金）に5製品、11月13日（金）に2製品が発売されます。HomeViewは10月13日時点で、日本が販売対象国に入っておらず、発売日も価格も未発表です。日本の価 […] …",
+      "source": "iPhone Mania",
+      "url": "https://iphone-mania.jp/apple-608285/",
+      "date": "2026-11-03",
       "category": "apple"
     },
     {
-      "title": "「愛されるレーサーに」三重県出身の小林選手が意気込み 19―24日 ...",
-      "summary": "小林選手は四日市市出身。幼稚園の頃から祖父や父と行ったレース場で感じたエンジン音や県出身のトップレーサー、井口佳典選手の姿に憧れ、県立四郷高2年時から福岡県柳川市の養成所入所試験に挑戦。",
-      "source": "伊勢新聞 on MSN",
-      "url": "https://www.msn.com/ja-jp/news/other/%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AB-%E4%B8%89%E9%87%8D%E7%9C%8C%E5%87%BA%E8%BA%AB%E3%81%AE%E5%B0%8F%E6%9E%97%E9%81%B8%E6%89%8B%E3%81%8C%E6%84%8F%E6%B0%97%E8%BE%BC%E3%81%BF-19-24%E6%97%A5%E3%81%AB%E3%83%9C%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E6%B4%A5%E3%81%A7%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E6%88%A6/ar-AA2hoE3D",
+      "title": "アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
+      "summary": "今年もアップル「iPhone」の新製品が出揃った。今秋はスタンダードモデルの投入が見送られ、9月に発売されたハイエンド機の「iPhone 18 Pro」「iPhone 18 Pro Max」、そして10月23日に発売された同社初の折りたたみモデル「iPhone Duo」というライ…",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/2152711.html",
+      "date": "2026-11-02",
+      "category": "apple"
+    },
+    {
+      "title": "恒例のボートレース戸田大会が7回目も大盛況。黒潮TOKYOジャパンがSOG王者・渡瀬瑞基を下し、12・22後楽園でタイトル挑戦へ【ガンプロ】（TOKYO HEADLINE WEB）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VFA4Zl9Mb0swbm5KajB5M2hkTUMxTVN3ZTZrZTF0cllrQUs4NVFaUnVnM2h4SXBXX2hfRDVfQThPeWwzdzdrekRma1c5S0ZaMVZTM2czNGplbkFqNFVzRmlLN3pwNUxTQUtfVG90MllNTkdPa0VpcGZ6SGdKUkE?oc=5",
+      "date": "2026-11-15",
+      "category": "boatrace"
+    },
+    {
+      "title": "【ボートレース】まくって勝負駆け成功の山本稔太朗が優出へ「調整を戻してターン回りを求める」～児島・報知杯",
+      "summary": "",
+      "source": "スポーツ報知",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9INWJGWWV3T0lnSmszVkM3eVM5SURSV1Y4NXRqZzExQzdRWnM1bG5QaGRlMXBGbHZlclhrQUNlUmNCZE9paUM0YW9PNEdqZ3VJZnJLblZFbHZySXd1b2JQMWZ3?oc=5",
+      "date": "2026-11-15",
+      "category": "boatrace"
+    },
+    {
+      "title": "【GⅠ京極賞】登番最若手・水谷理人が初の地元周年でアピールだ／まるがめボートレース（サンケイスポーツ）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qaC1EMzVJWGpSX0Z6VGJoWXJoY1pvSVFUV2p0US0tTG5GVzk2ajFtUDBVV05adlBONGtuR3VDMk1RSHh6S2JfSUVHUS1lNzJSQ2FLaW9oZzZROGpzNDIyc1R6QVVVUmJrc3ZwNXVIMm5hRnd2MzBzN0VTd0NBX1E?oc=5",
+      "date": "2026-11-15",
+      "category": "boatrace"
+    },
+    {
+      "title": "【ルーキーシリーズ第21戦】準優をタッチSから逃走 宮脇遼太がデビュー2度目Vへ突っ走る／津ボートレース（サンケイスポーツ）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMnUxUzd3UVEyR2ZCN2NJbFZOaURqQjJQN055eEtpUUN4UHZSTzBDa1gzVWk4S0ZQLWhEQ1Y0TGJvdGJaNk1QVG1lOV9qMUp0YVdQd1EwckNwNEs3SEhpWmNsV2dUcUoxWnFkZEhGZklnWWdEYlVpd3Btd3dTQ3M?oc=5",
+      "date": "2026-11-15",
+      "category": "boatrace"
+    },
+    {
+      "title": "【ボートレース】水谷理人が地元G1での躍進誓う「予選突破は最低ラインです」／丸亀（日刊スポーツ）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82ZHc4a1hJaEZoYXdCZmNxd1hEdTRvbjlhejN0cHlybXZHSHUxTjdDbE11LXJRU1oyNDdUV25sQ1pWZU5qUHJXckgwbjZFODZGVmVLUWQweGVWdkM0STF4Tl9iTzdPdzQ2Y2tDeTRQX1FaWWZQZ243S0RiMDNDV2s?oc=5",
       "date": "2026-11-14",
       "category": "boatrace"
     },
     {
-      "title": "〝日本一無口なアナウンサー〟近藤鉄太郎アナはボートレースに ...",
-      "summary": "“日本一無口なアナウンサー”の素顔は、驚くほど情熱的だった。ＫＢＣ九州朝日放送の近藤鉄太郎アナウンサー（５３）は、競馬実況の名手として知られる杉本清の愛用品をテレビ番組のオークションで１００万円を投じて落札した筋金入りの競馬ファン。",
-      "source": "東スポWEB",
-      "url": "https://www.tokyo-sports.co.jp/articles/-/409326",
-      "date": "2026-11-13",
-      "category": "boatrace"
-    },
-    {
-      "title": "【ボートレース】西岡顕心が気合「地元の記念は取らなあかん ...",
-      "summary": "ボートレースまるがめで１５日に開幕するＧ１「京極賞開設７４周年記念競走」に出場する地元香川支部の西岡顕心（２５）が１３日、報知新聞大阪本社を訪れ、大会をＰＲした。 西岡は今年７月のびわこオーシャンＣではＳＧ初優出して大いに名前を売った。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/80695fc487cf18d3ec3ac1e76a8216321b854fdc",
-      "date": "2026-11-13",
-      "category": "boatrace"
-    },
-    {
-      "title": "【ボートレース】4日目連勝の浜野斗馬が予選を2位通過「スタート ...",
-      "summary": "◆ルーキーシリーズ第２２戦スカパー！・ＪＬＣ杯争奪戦（１３日、ボートレース津・４日目） 浜野 斗馬（２６）＝香川（津７、１１Ｒに出走） 得点率７・４０の８位タイから臨んだ予選最終日。",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/1d8eb1183523adf2e1daf2c0b7a5c440a8fc8a16",
-      "date": "2026-11-13",
-      "category": "boatrace"
-    },
-    {
-      "title": "【ボートレース】三浦永理が連勝でリズム上昇「全体にバランスが ...",
-      "summary": "三浦永理（43＝静岡）が乗ってきた。2日目はまくりと逃げで連勝を飾った。駆る54号機には複勝率21・2％以上の手応えで、「いいと思います。全体にバランスが取れ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com） …",
+      "title": "【ボートレース】平高奈菜は2着2本で巻き返し成功 F休み明けもスタート決まる／若松",
+      "summary": "",
       "source": "日刊スポーツ",
-      "url": "https://www.nikkansports.com/public_race/news/202611130000995.html",
-      "date": "2026-11-13",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVi1fSVZDc2l1cFhqbG45eHpTY0twWWV5SGNtNjNFWkx4b08wYl93TVZtenp3NTJLczJsbDhPZHNuQURMb1poT2R0ZG80aFZ0UU5VZ1ZPanYzdHJuY2s0ZzV0NjF6OUM0RlRIdGRDYkFramRIbWNlRzRCTnhaVG5sdUdpY3JZQdIBfEFVX3lxTE1oQVBjTHFoZjdJR0FibWplLS1MNkwwVWhNRDVJWjZpMC1lUTI5U2N4blVaRXBOUnJpR3I0ajdHWnF6Z2NMWmxGZHdBRDV4U2JHSkhDck10MTJqWkNEUi1lUGsyeDdFVzVKN2N0bFl6QnZPS3VNN3NEbnR4Nm0?oc=5",
+      "date": "2026-11-14",
       "category": "boatrace"
     },
     {
-      "title": "【ボートレース】山下大輝が予選ラストで連勝、予選トップに笑顔 ...",
-      "summary": "山下大輝（30＝兵庫）が8位タイで迎えた予選最終日に6Rと11Rを連勝で猛チャージ。逆転で予選トップの座を射止めた。前半は5コースからまくり差したが、圧巻だっ… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com） …",
-      "source": "日刊スポーツ",
-      "url": "https://www.nikkansports.com/public_race/news/202611130001445.html",
-      "date": "2026-11-13",
+      "title": "【ボートレース】鳴門周年でG1初優勝の田中駿兵「良かった鳴門のペラにたたいていく」／徳山（日刊スポーツ）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YSTBNaVpuclNFRy1pSXVmeTJzQVpsdlN5dG84T3RBdk9iMFBKcUM1dW1sRGpQRmgzV1RZZEZOYVBGRnI5YkRrelRkbjVEMXZNUkN0TEJkY2o4UmpMZzVWb0RxcTBBdk93OEc5QnRHRVpNb2RGQnZHNzhLUmdzQVk?oc=5",
+      "date": "2026-11-14",
       "category": "boatrace"
     },
     {
-      "title": "ボートレース予想AIに渡す判断材料を増やしたら成績が上がった ...",
-      "summary": "「1号艇の選手が強いかどうかで、ほかの艇のチャンスはまったく変わるはずだ」 ボートレースを少しでも見たことがある人なら、ごく当たり前に考えることです。ところが、私が作っていた予測モデルには、この当たり前の見方がまったく入っていませんでした。",
-      "source": "note",
-      "url": "https://note.com/50python/n/nd1bc8b5d5255",
-      "date": "2026-11-13",
-      "category": "boatrace"
-    },
-    {
-      "title": "回収率30〜60%台の不振から、AI（Gemini）とボートレースを予想して ...",
-      "summary": "回収率60%台の不振から、AIにすがった理由 今年のボートレースは、これまでにない成績不振に陥っていました。月別の回収率は30〜60%台まで落ち込み、見送ったレースに限って的中し、買ったレースは当たってもオッズが安くてトリガミになり、ここぞと厚く張れば外れる——そんな負のスパイラ…",
-      "source": "note",
-      "url": "https://note.com/yuchan_tsukuru/n/n5fcd4f03c3bb",
-      "date": "2026-11-12",
+      "title": "【ボートレース】１着にも遠藤エミに満足感なし「直線が怪しいです」／びわこ（日刊スポーツ）",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNTVaWTlfYVh6ZUM2TGNaQVlGNE1sR21KcEk1bzkwVWJma05MSDN5UDJnT0tpellhdFk4cGZaaEJjQTNoaGNmUGU5eHNBNExrTnM1NGxOREhWQ3JETm9kZFBmWmVuVkItR2VVZXZIdDdSaUZzaEE0dmExczdoYkk?oc=5",
+      "date": "2026-11-14",
       "category": "boatrace"
     }
   ]
